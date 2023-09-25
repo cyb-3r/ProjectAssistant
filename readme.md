@@ -10,4 +10,7 @@ While this is a tool I've programmed and built for my personnal usage, I'm leavi
 
 ## Features
 
-TBA
+- Create and manage project componements while adapting to the techno
+- Create a project folder based on a template that can be provided to the assistant
+- Thanking the assistant for its hard work :)
+- Giving random advice
