@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Cybus\\Documents\\VS Repos\\CLI2DE\\CLI2DE.csproj": {}
+    "D:\\Cybus\\Documents\\VS Repos\\ProjectAssistant\\CLI2DE.csproj": {}
   },
   "projects": {
-    "D:\\Cybus\\Documents\\VS Repos\\CLI2DE\\CLI2DE.csproj": {
+    "D:\\Cybus\\Documents\\VS Repos\\ProjectAssistant\\CLI2DE.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Cybus\\Documents\\VS Repos\\CLI2DE\\CLI2DE.csproj",
+        "projectUniqueName": "D:\\Cybus\\Documents\\VS Repos\\ProjectAssistant\\CLI2DE.csproj",
         "projectName": "CLI2DE",
-        "projectPath": "D:\\Cybus\\Documents\\VS Repos\\CLI2DE\\CLI2DE.csproj",
+        "projectPath": "D:\\Cybus\\Documents\\VS Repos\\ProjectAssistant\\CLI2DE.csproj",
         "packagesPath": "C:\\Users\\Cybus\\.nuget\\packages\\",
-        "outputPath": "D:\\Cybus\\Documents\\VS Repos\\CLI2DE\\obj\\",
+        "outputPath": "D:\\Cybus\\Documents\\VS Repos\\ProjectAssistant\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Cybus\\AppData\\Roaming\\NuGet\\NuGet.Config",

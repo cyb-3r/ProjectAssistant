@@ -1,4 +1,4 @@
-# CLPA
+# Project Assistant
 
 ## Description
 

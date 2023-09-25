@@ -12,3 +12,32 @@ D:\Cybus\Documents\VS Repos\CLI2DE\obj\Debug\net7.0\refint\CLI2DE.dll
 D:\Cybus\Documents\VS Repos\CLI2DE\obj\Debug\net7.0\CLI2DE.pdb
 D:\Cybus\Documents\VS Repos\CLI2DE\obj\Debug\net7.0\CLI2DE.genruntimeconfig.cache
 D:\Cybus\Documents\VS Repos\CLI2DE\obj\Debug\net7.0\ref\CLI2DE.dll
+C:\Users\Isaac\Documents\ProjectAssistant\bin\Debug\net7.0\CLI2DE.exe
+C:\Users\Isaac\Documents\ProjectAssistant\bin\Debug\net7.0\CLI2DE.deps.json
+C:\Users\Isaac\Documents\ProjectAssistant\bin\Debug\net7.0\CLI2DE.runtimeconfig.json
+C:\Users\Isaac\Documents\ProjectAssistant\bin\Debug\net7.0\CLI2DE.dll
+C:\Users\Isaac\Documents\ProjectAssistant\bin\Debug\net7.0\CLI2DE.pdb
+C:\Users\Isaac\Documents\ProjectAssistant\obj\Debug\net7.0\CLI2DE.csproj.AssemblyReference.cache
+C:\Users\Isaac\Documents\ProjectAssistant\obj\Debug\net7.0\CLI2DE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isaac\Documents\ProjectAssistant\obj\Debug\net7.0\CLI2DE.AssemblyInfoInputs.cache
+C:\Users\Isaac\Documents\ProjectAssistant\obj\Debug\net7.0\CLI2DE.AssemblyInfo.cs
+C:\Users\Isaac\Documents\ProjectAssistant\obj\Debug\net7.0\CLI2DE.csproj.CoreCompileInputs.cache
+C:\Users\Isaac\Documents\ProjectAssistant\obj\Debug\net7.0\CLI2DE.dll
+C:\Users\Isaac\Documents\ProjectAssistant\obj\Debug\net7.0\refint\CLI2DE.dll
+C:\Users\Isaac\Documents\ProjectAssistant\obj\Debug\net7.0\CLI2DE.pdb
+C:\Users\Isaac\Documents\ProjectAssistant\obj\Debug\net7.0\CLI2DE.genruntimeconfig.cache
+C:\Users\Isaac\Documents\ProjectAssistant\obj\Debug\net7.0\ref\CLI2DE.dll
+D:\Cybus\Documents\VS Repos\ProjectAssistant\bin\Debug\net7.0\CLI2DE.exe
+D:\Cybus\Documents\VS Repos\ProjectAssistant\bin\Debug\net7.0\CLI2DE.deps.json
+D:\Cybus\Documents\VS Repos\ProjectAssistant\bin\Debug\net7.0\CLI2DE.runtimeconfig.json
+D:\Cybus\Documents\VS Repos\ProjectAssistant\bin\Debug\net7.0\CLI2DE.dll
+D:\Cybus\Documents\VS Repos\ProjectAssistant\bin\Debug\net7.0\CLI2DE.pdb
+D:\Cybus\Documents\VS Repos\ProjectAssistant\obj\Debug\net7.0\CLI2DE.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cybus\Documents\VS Repos\ProjectAssistant\obj\Debug\net7.0\CLI2DE.AssemblyInfoInputs.cache
+D:\Cybus\Documents\VS Repos\ProjectAssistant\obj\Debug\net7.0\CLI2DE.AssemblyInfo.cs
+D:\Cybus\Documents\VS Repos\ProjectAssistant\obj\Debug\net7.0\CLI2DE.csproj.CoreCompileInputs.cache
+D:\Cybus\Documents\VS Repos\ProjectAssistant\obj\Debug\net7.0\CLI2DE.dll
+D:\Cybus\Documents\VS Repos\ProjectAssistant\obj\Debug\net7.0\refint\CLI2DE.dll
+D:\Cybus\Documents\VS Repos\ProjectAssistant\obj\Debug\net7.0\CLI2DE.pdb
+D:\Cybus\Documents\VS Repos\ProjectAssistant\obj\Debug\net7.0\CLI2DE.genruntimeconfig.cache
+D:\Cybus\Documents\VS Repos\ProjectAssistant\obj\Debug\net7.0\ref\CLI2DE.dll
